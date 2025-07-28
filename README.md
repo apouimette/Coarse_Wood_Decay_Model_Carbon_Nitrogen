@@ -11,7 +11,7 @@ This repository contains a process-based model written in Python to simulate car
 | `Coarse_Wood_Decay_Model_Carbon_Nitrogen.py` | Main model script |
 | `CWD_input_parameters.csv`       | Input parameters per cohort/snags |
 | `CWD_disturbance_inputs.csv`     | Time series of disturbance events |
-| `outputs/`                        | (Optional) Example output files |
+| `outputs/`                        | Example output files |
 | `figures/`                        | Publication-ready plots (no code shared) |
 | `requirements.txt`               | Required Python packages |
 
